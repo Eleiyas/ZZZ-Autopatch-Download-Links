@@ -11,7 +11,7 @@ Pre-release consists of Version 0.13 (Tuning Test), 0.2.0 (Equalizing Test), and
 Unfortunately, all the links I have for pre-release are dead and 404 on connect.
 
 ## Release
-Links mostly come from Reddit and other sites. 1.7+ taken from [HoYo's official API](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?game_ids%5B%5D=U5hbdsT9W7&launcher_id=VYTpXlbWo8)
+Older links mostly come from Reddit. 1.7+ taken from [HoYo's Official API](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?game_ids%5B%5D=U5hbdsT9W7&launcher_id=VYTpXlbWo8).
 
 1. 1.0: Working
 2. 1.1: Working
