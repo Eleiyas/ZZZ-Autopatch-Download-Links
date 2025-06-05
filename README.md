@@ -11,7 +11,7 @@ Pre-release consists of Version 0.13 (Tuning Test), 0.2.0 (Equalizing Test), and
 Unfortunately, all the links I have for pre-release are dead and 404 on connect.
 
 ## Release
-Links mostly come from Reddit and other sites, as I have yet to find the correct API to hook into for ZZZ, unlike Genshin.
+Links mostly come from Reddit and other sites. 1.7+ taken from [HoYo's official API](https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?game_ids%5B%5D=U5hbdsT9W7&launcher_id=VYTpXlbWo8)
 
 1. 1.0: Working
 2. 1.1: Working
@@ -21,6 +21,7 @@ Links mostly come from Reddit and other sites, as I have yet to find the correct
 6. 1.5: Working
 7. 1.6: **MISSING**
 8. 1.7: Working
+9. 2.0 (Preload): Working
 
 # Credits
 [KeemosMusic - Reddit](https://www.reddit.com/user/KeemosMusic/search/?q=Direct)<br>
