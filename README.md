@@ -10,12 +10,13 @@ I will be focussing on the Global releases "autopatchos", rather than the Chines
 Pre-release consists of Version 0.13 (Tuning Test), 0.2.0 (Equalizing Test), and 0.3.0 (Amplifying Test). 
 Unfortunately, all the links I have for pre-release are dead and 404 on connect.
 
-## Post-Launch
+## Release
 Links mostly come from Reddit and other sites, as I have yet to find the correct API to hook into for ZZZ, unlike Genshin.
 
 1. 1.0: Working
 2. 1.1: Working
 3. 1.2: Working
+4. 1.3: Working
 
 # Credits
 [KeemosMusic - Reddit](https://www.reddit.com/user/KeemosMusic/search/?q=Direct)<br>
