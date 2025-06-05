@@ -17,5 +17,5 @@ Links mostly come from Reddit and other sites, as I have yet to find the correct
 2. 1.1: Working
 
 # Credits
-[KeemosMusic - Reddit](https://www.reddit.com/user/KeemosMusic/search/?q=Direct)
+[KeemosMusic - Reddit](https://www.reddit.com/user/KeemosMusic/search/?q=Direct)<br>
 [keitarogg's ZZZ-Download-Library](https://github.com/keitarogg/ZZZ-Download-Library/tree/master)
