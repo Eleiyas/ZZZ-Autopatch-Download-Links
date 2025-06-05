@@ -13,4 +13,9 @@ Unfortunately, all the links I have for pre-release are dead and 404 on connect.
 ## Post-Launch
 Links mostly come from Reddit and other sites, as I have yet to find the correct API to hook into for ZZZ, unlike Genshin.
 
+1. 1.0: Working
+2. 1.1: Working
+
 # Credits
+[KeemosMusic - Reddit](https://www.reddit.com/user/KeemosMusic/search/?q=Direct)
+[keitarogg's ZZZ-Download-Library](https://github.com/keitarogg/ZZZ-Download-Library/tree/master)
