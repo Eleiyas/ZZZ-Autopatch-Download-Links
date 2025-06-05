@@ -15,6 +15,7 @@ Links mostly come from Reddit and other sites, as I have yet to find the correct
 
 1. 1.0: Working
 2. 1.1: Working
+3. 1.2: Working
 
 # Credits
 [KeemosMusic - Reddit](https://www.reddit.com/user/KeemosMusic/search/?q=Direct)<br>
